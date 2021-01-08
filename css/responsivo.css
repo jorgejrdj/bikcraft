@@ -1,5 +1,5 @@
 /*Estilo para tablets*/
-@media only screen and (min-width: 788px) and (max-width: 979px) {
+@media only screen and (min-width: 768px) and (max-width: 959px) {
 
 /*Qualidade Home*/
 .qualidade:after {
@@ -50,7 +50,7 @@
 } /* Final do estilo para tablets */
 
 /*Estilo para smartphone*/
-@media only screen and (max-width: 787px) {
+@media only screen and (max-width: 767px) {
 
 /*Header*/
 .header {
@@ -94,7 +94,6 @@
 .introducao {
 	margin-top: 0px;
 	padding-top: 40px;
-	background: url("../img/bg-mobile.jpg") no-repeat center;
 	background-size: cover;
 }
 
